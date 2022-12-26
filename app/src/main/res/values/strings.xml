@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name" translatable="false">projectFinalTest</string>
+    <string name="google_map_key">AIzaSyAzyZc-O1-jEzd6es2ElTug1a27gvywDVo</string>
+
+    <string name="find">Find</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="facebook_app_id">386637716594209</string> <string name="fb_login_protocol_scheme">fb386637716594209</string>
+
+</resources>
